@@ -204,6 +204,26 @@ article.post p { color: var(--text); }
   margin: 32px 0 8px;
 }
 
+.line-promo {
+  margin: 32px 0;
+  padding: 20px;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+}
+
+.line-promo p {
+  font-size: 13.5px;
+  color: var(--text-muted);
+  margin: 14px 0 4px;
+}
+
+.cta-line {
+  background: #06c755;
+  color: #fff;
+  margin: 12px 0 0;
+}
+
 .disclaimer-line {
   color: var(--text-muted);
   font-size: 12px;
